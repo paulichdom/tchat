@@ -1,1 +1,4 @@
-print("Project init")
+while True:
+  content = input(">> ")
+  
+  print(f"You entered: {content}")
